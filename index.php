@@ -3,12 +3,12 @@
 <html>
 	<head>
 		<style>
-			body {
+			body 
        				 background-image: url(" https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ71_VRa1boTfWMrCgNUE25uZgJPvzGHuIftuLiiDR-Cci-k0_j");
 				h3   {color: Red;}
 				h2   {color: Red;}
 				pre    {color: Red;}	
-			} 
+			
 			<title>Main page</title>
 		</style>
 	</head>
