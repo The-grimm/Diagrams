@@ -3,10 +3,9 @@
 <html>
 	<head>
 		<style>
-			body {background-color: powderblue;font-size:120%;}
-			h3   {color: blue;}
-			h2   {color: blue;}
-			pre    {color: black;}
+			body {
+       				 background-image: url(" https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ71_VRa1boTfWMrCgNUE25uZgJPvzGHuIftuLiiDR-Cci-k0_j");
+				} 
 			<title>Main page</title>
 		</style>
 	</head>
